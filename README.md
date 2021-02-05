@@ -1,35 +1,35 @@
 ## Abstract
-![JustSong's Github Stats](https://github-readme-stats.vercel.app/api?username=songquanpeng&show_icons=true&hide_border=true)
-![JustSong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songquanpeng&layout=compact&hide_border=true)
+![LJW's Github Stats](https://github-readme-stats.vercel.app/api?username=LeeJiangWei&show_icons=true&hide_border=true)
+![LJW's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJiangWei&layout=compact&hide_border=true)
 
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
-|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatic update your GitHub readme profile with Github Actions.|`2021-02-04 15:55:17`|
-|[scripts](https://github.com/songquanpeng/scripts)|在终端执行的脚本，浏览器脚本所在的仓库：https://github.com/songquanpeng/userscripts|`2021-02-02 10:54:29`|
-|[readme-stats](https://github.com/songquanpeng/readme-stats)|在 README 中展示你在知乎，B 站等网站的数据|`2021-02-01 21:22:49`|
-|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|`2021-01-31 19:29:57`|
-|[blog](https://github.com/songquanpeng/blog)|个人博客（Express + Knex + SQLite+ React + Ant Design）|`2021-01-19 09:38:14`|
-|[webhook-service](https://github.com/songquanpeng/webhook-service)|A webhook server powered by Go.|`2021-01-18 13:36:03`|
-|[lan-share-go](https://github.com/songquanpeng/lan-share-go)|LAN file sharing tool. 局域网文件共享工具|`2021-01-18 13:35:23`|
-|[md2html](https://github.com/songquanpeng/md2html)|A markdown parser without regex used.|`2021-01-18 13:34:42`|
-|[emoji-cli](https://github.com/songquanpeng/emoji-cli)|Emoji CLI makes you find proper emoji for git commit message easily.|`2021-01-18 13:28:21`|
-|[online-code-editor](https://github.com/songquanpeng/online-code-editor)|基于 Node.js & Express.js 的在线代码编辑器，可供新手练习模仿用。|`2021-01-16 12:02:10`|
+|[pcr-calculator](https://github.com/LeeJiangWei/pcr-calculator)|用于【蘭德索爾圖書館】的公主连结R刷图规划工具，基于Chrome extension开发|`2021-01-13 13:22:49`|
+|[blog-client](https://github.com/LeeJiangWei/blog-client)|Client for personal blog using React.|`2021-01-06 07:14:31`|
+|[online-mall-client](https://github.com/LeeJiangWei/online-mall-client)|Database course design, client for online mall. 数据库课程设计在线商城客户端。|`2021-01-05 23:09:34`|
+|[typescript-learn](https://github.com/LeeJiangWei/typescript-learn)|Stores codes of learning typescript.|`2021-01-05 22:35:15`|
+|[convex-optimization-assignment](https://github.com/LeeJiangWei/convex-optimization-assignment)|研一课程《最优化计算》作业代码。|`2020-12-27 21:01:08`|
+|[sensors-positioning](https://github.com/LeeJiangWei/sensors-positioning)|None|`2020-12-24 10:15:16`|
+|[online-mall-server](https://github.com/LeeJiangWei/online-mall-server)|Database course design, server for online mall.  数据库课程设计在线商城服务端。|`2020-12-12 06:06:12`|
+|[webpack-practice](https://github.com/LeeJiangWei/webpack-practice)|学习webpack项目以及react应用|`2020-12-11 23:59:30`|
+|[chatbot-web-client](https://github.com/LeeJiangWei/chatbot-web-client)|None|`2020-12-04 20:52:53`|
+|[chatbot-server](https://github.com/LeeJiangWei/chatbot-server)|Chatbot server for rasa x|`2020-12-04 20:51:36`|
 
 ## Top Repos
 |Repo|Description|Star|
 |:--|:--|:--|
-|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器。|`204`|
-|[blog](https://github.com/songquanpeng/blog)|个人博客（Express + Knex + SQLite+ React + Ant Design）|`21`|
-|[battle-city](https://github.com/songquanpeng/battle-city)|基于 TypeScript 的《坦克大战》的非标准实现。Yet another Battle City implemented in TypeScript.|`14`|
-|[v2ex-style-forum](https://github.com/songquanpeng/v2ex-style-forum)|V2ex 风格的论坛程序。V2ex's Node.js clone.|`13`|
-|[js-interpreter](https://github.com/songquanpeng/js-interpreter)|一个简陋的 JavaScript 解释器实现。A simple JavaScript interpreter, build for beginners.|`10`|
-|[lan-share](https://github.com/songquanpeng/lan-share)|局域网下文件分享工具。LAN file sharing tool. |`10`|
-|[lan-share-go](https://github.com/songquanpeng/lan-share-go)|LAN file sharing tool. 局域网文件共享工具|`7`|
-|[hexo-theme-lightx](https://github.com/songquanpeng/hexo-theme-lightx)|Hexo theme lightx.|`5`|
-|[online-code-editor](https://github.com/songquanpeng/online-code-editor)|基于 Node.js & Express.js 的在线代码编辑器，可供新手练习模仿用。|`5`|
-|[webhook-service](https://github.com/songquanpeng/webhook-service)|A webhook server powered by Go.|`4`|
+|[pcr-calculator](https://github.com/LeeJiangWei/pcr-calculator)|用于【蘭德索爾圖書館】的公主连结R刷图规划工具，基于Chrome extension开发|`50`|
+|[Scrapyspider](https://github.com/LeeJiangWei/Scrapyspider)|Store some spiders created by Scrapy|`2`|
+|[Arks](https://github.com/LeeJiangWei/Arks)|微信小程序，想要做成一个明日方舟工具箱|`1`|
+|[online-mall-client](https://github.com/LeeJiangWei/online-mall-client)|Database course design, client for online mall. 数据库课程设计在线商城客户端。|`1`|
+|[online-mall-server](https://github.com/LeeJiangWei/online-mall-server)|Database course design, server for online mall.  数据库课程设计在线商城服务端。|`1`|
+|[chatbot-server](https://github.com/LeeJiangWei/chatbot-server)|Chatbot server for rasa x|`0`|
+|[chatbot-web-client](https://github.com/LeeJiangWei/chatbot-web-client)|None|`0`|
+|[rasabot-zh](https://github.com/LeeJiangWei/rasabot-zh)|Chinese chatbot developed with Rasa|`0`|
+|[sl-gep-py](https://github.com/LeeJiangWei/sl-gep-py)|Python implementation of SL-GEP|`0`|
+|[algorithms](https://github.com/LeeJiangWei/algorithms)|Implement some algorithms with Python|`0`|
 
 
 
-*[Last Automatic Update: 2021-02-04 15:55:51](https://github.com/songquanpeng/songquanpeng/blob/master/help.md)*
+*[Last Automatic Update: 2021-02-05 12:05:06](https://github.com/songquanpeng/songquanpeng/blob/master/help.md)*
