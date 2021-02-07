@@ -19,7 +19,7 @@
 ## Top Repos
 |Repo|Description|Star|
 |:--|:--|:--|
-|[pcr-calculator](https://github.com/LeeJiangWei/pcr-calculator)|用于【蘭德索爾圖書館】的公主连结R刷图规划工具，基于Chrome extension开发|`50`|
+|[pcr-calculator](https://github.com/LeeJiangWei/pcr-calculator)|用于【蘭德索爾圖書館】的公主连结R刷图规划工具，基于Chrome extension开发|`51`|
 |[Scrapyspider](https://github.com/LeeJiangWei/Scrapyspider)|Store some spiders created by Scrapy|`2`|
 |[Arks](https://github.com/LeeJiangWei/Arks)|微信小程序，想要做成一个明日方舟工具箱|`1`|
 |[online-mall-client](https://github.com/LeeJiangWei/online-mall-client)|Database course design, client for online mall. 数据库课程设计在线商城客户端。|`1`|
@@ -32,4 +32,4 @@
 
 
 
-*[Last Automatic Update: 2021-02-05 12:05:06](https://github.com/songquanpeng/songquanpeng/blob/master/help.md)*
+*[Last Automatic Update: 2021-02-07 08:49:09](https://github.com/songquanpeng/songquanpeng/blob/master/help.md)*
