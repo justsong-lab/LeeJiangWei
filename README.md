@@ -19,17 +19,17 @@
 ## Top Repos
 |Repo|Description|Star|
 |:--|:--|:--|
-|[pcr-calculator](https://github.com/LeeJiangWei/pcr-calculator)|用于【蘭德索爾圖書館】的公主连结R刷图规划工具，基于Chrome extension开发|`51`|
+|[pcr-calculator](https://github.com/LeeJiangWei/pcr-calculator)|用于【蘭德索爾圖書館】的公主连结R刷图规划工具，基于Chrome extension开发|`53`|
 |[Scrapyspider](https://github.com/LeeJiangWei/Scrapyspider)|Store some spiders created by Scrapy|`2`|
-|[Arks](https://github.com/LeeJiangWei/Arks)|微信小程序，想要做成一个明日方舟工具箱|`1`|
 |[online-mall-client](https://github.com/LeeJiangWei/online-mall-client)|Database course design, client for online mall. 数据库课程设计在线商城客户端。|`1`|
 |[online-mall-server](https://github.com/LeeJiangWei/online-mall-server)|Database course design, server for online mall.  数据库课程设计在线商城服务端。|`1`|
+|[Arks](https://github.com/LeeJiangWei/Arks)|微信小程序，想要做成一个明日方舟工具箱|`1`|
 |[chatbot-server](https://github.com/LeeJiangWei/chatbot-server)|Chatbot server for rasa x|`0`|
 |[chatbot-web-client](https://github.com/LeeJiangWei/chatbot-web-client)|None|`0`|
+|[kindergarten-info-collector](https://github.com/LeeJiangWei/kindergarten-info-collector)|A simple registration system for a kindergarten.|`0`|
 |[rasabot-zh](https://github.com/LeeJiangWei/rasabot-zh)|Chinese chatbot developed with Rasa|`0`|
 |[sl-gep-py](https://github.com/LeeJiangWei/sl-gep-py)|Python implementation of SL-GEP|`0`|
-|[algorithms](https://github.com/LeeJiangWei/algorithms)|Implement some algorithms with Python|`0`|
 
 
 
-*[Last Automatic Update: 2021-02-07 08:49:09](https://github.com/songquanpeng/songquanpeng/blob/master/help.md)*
+*[Last Automatic Update: 2021-02-14 08:49:49](https://github.com/songquanpeng/songquanpeng/blob/master/help.md)*
