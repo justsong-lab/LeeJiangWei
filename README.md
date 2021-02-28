@@ -5,7 +5,7 @@
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
-|[pcr-calculator](https://github.com/LeeJiangWei/pcr-calculator)|用于【蘭德索爾圖書館】的公主连结R刷图规划工具，基于Chrome extension开发|`2021-01-13 13:22:49`|
+|[pcr-calculator](https://github.com/LeeJiangWei/pcr-calculator)|用于【蘭德索爾圖書館】的公主连结R刷图规划工具，基于Chrome extension开发|`2021-02-22 21:54:45`|
 |[blog-client](https://github.com/LeeJiangWei/blog-client)|Client for personal blog using React.|`2021-01-06 07:14:31`|
 |[online-mall-client](https://github.com/LeeJiangWei/online-mall-client)|Database course design, client for online mall. 数据库课程设计在线商城客户端。|`2021-01-05 23:09:34`|
 |[typescript-learn](https://github.com/LeeJiangWei/typescript-learn)|Stores codes of learning typescript.|`2021-01-05 22:35:15`|
@@ -32,4 +32,4 @@
 
 
 
-*[Last Automatic Update: 2021-02-21 08:51:08](https://github.com/songquanpeng/songquanpeng/blob/master/help.md)*
+*[Last Automatic Update: 2021-02-28 08:52:50](https://github.com/songquanpeng/songquanpeng/blob/master/help.md)*
