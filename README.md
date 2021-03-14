@@ -5,6 +5,8 @@
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
+|[chatbot-nano-client](https://github.com/LeeJiangWei/chatbot-nano-client)|None|`2021-03-13 15:33:50`|
+|[React-practice](https://github.com/LeeJiangWei/React-practice)|Used for practising react with create-react-app|`2021-03-13 15:26:58`|
 |[pcr-calculator](https://github.com/LeeJiangWei/pcr-calculator)|用于【蘭德索爾圖書館】的公主连结R刷图规划工具，基于Chrome extension开发|`2021-02-22 21:54:45`|
 |[blog-client](https://github.com/LeeJiangWei/blog-client)|Client for personal blog using React.|`2021-01-06 07:14:31`|
 |[online-mall-client](https://github.com/LeeJiangWei/online-mall-client)|Database course design, client for online mall. 数据库课程设计在线商城客户端。|`2021-01-05 23:09:34`|
@@ -12,9 +14,7 @@
 |[convex-optimization-assignment](https://github.com/LeeJiangWei/convex-optimization-assignment)|研一课程《最优化计算》作业代码。|`2020-12-27 21:01:08`|
 |[sensors-positioning](https://github.com/LeeJiangWei/sensors-positioning)|None|`2020-12-24 10:15:16`|
 |[online-mall-server](https://github.com/LeeJiangWei/online-mall-server)|Database course design, server for online mall.  数据库课程设计在线商城服务端。|`2020-12-12 06:06:12`|
-|[webpack-practice](https://github.com/LeeJiangWei/webpack-practice)|学习webpack项目以及react应用|`2020-12-11 23:59:30`|
 |[chatbot-web-client](https://github.com/LeeJiangWei/chatbot-web-client)|None|`2020-12-04 20:52:53`|
-|[chatbot-server](https://github.com/LeeJiangWei/chatbot-server)|Chatbot server for rasa x|`2020-12-04 20:51:36`|
 
 ## Top Repos
 |Repo|Description|Star|
@@ -32,4 +32,4 @@
 
 
 
-*[Last Automatic Update: 2021-03-07 08:54:05](https://github.com/songquanpeng/songquanpeng/blob/master/help.md)*
+*[Last Automatic Update: 2021-03-14 08:54:58](https://github.com/songquanpeng/songquanpeng/blob/master/help.md)*
